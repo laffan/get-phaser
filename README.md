@@ -8,4 +8,4 @@ Maybe *too* tidy.
 
 - State machine based on [Nathan Altice's FSM](https://github.com/nathanaltice/FSM)
 - Tiled integration based on [Nathan Altice's Mappy](https://github.com/nathanaltice/Mappy)
-- The whole get() idea thanks to [Claude](https://claude.ai/)).
+- The whole get() idea thanks to [Claude](https://claude.ai/).
